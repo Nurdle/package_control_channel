@@ -1898,6 +1898,18 @@
 			]
 		},
 		{
+			"name": "AWS CloudFormation",
+			"details": "https://github.com/andyvermeulen/sublimetext_cloudformation",
+			"readme": "https://raw.githubusercontent.com/andyvermeulen/sublimetext_cloudformation/master/README.md",
+			"labels": ["build system", "language syntax", "snippets"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "AzureResourceManager",
 			"details": "https://github.com/GillesZunino/Sublime-AzureResourceManager",
 			"issues": "https://github.com/GillesZunino/Sublime-AzureResourceManager/issues",
